@@ -1,0 +1,51 @@
+body {
+    background: linear-gradient(lightblue, pink);
+}
+
+.text {
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 20px;
+    background-color: transparent;
+    color: black;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    height: 50px;
+}
+
+.input {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    height: 50px;
+}
+
+#myInput {
+    text-align: center;
+    border-radius: 10px;
+    color: black;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    width: auto;
+    margin-bottom: 20px;
+}
+
+#btn {
+    border-radius: 10px;
+    background-color: transparent;
+}
+
+.answer {
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    width: auto;
+    margin-bottom: 20px;
+}
